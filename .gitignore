@@ -12,3 +12,4 @@ npm-debug.log*
 .vscode/
 .idea/
 "@ | Out-File -FilePath .gitignore -Encoding utf8 -Force
+*.db
